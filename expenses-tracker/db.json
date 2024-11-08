@@ -1,0 +1,32 @@
+{
+  "expenses": [
+    {
+      "id": "f9f2",
+      "payee": "Rahul",
+      "product": "water",
+      "price": "50",
+      "date": "2024-11-08"
+    },
+    {
+      "id": "d25c",
+      "payee": "Ramesh",
+      "product": "rice",
+      "price": "100",
+      "date": "2024-11-08"
+    },
+    {
+      "id": "73d8",
+      "payee": "Rahul",
+      "product": "potato",
+      "price": "25",
+      "date": "2024-11-08"
+    },
+    {
+      "id": "d457",
+      "payee": "Rahul",
+      "product": "daal",
+      "price": "25",
+      "date": "2024-11-08"
+    }
+  ]
+}
